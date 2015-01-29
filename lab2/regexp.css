@@ -1,0 +1,8 @@
+body { font-family: Arial, serif; font-size: medium; }
+table { border-collapse: collapse; border-style: solid;
+    border-width: thin; border-color: black }
+td { border-style: solid; border-width: thin; border-color:gray }
+th { border-style: solid; border-width: thin; border-color: black }
+.mytitle { font-family: cursive;
+    text-align: center; font-size: 3em; font-weight: normal }
+.aligntable { text-align: center }

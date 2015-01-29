@@ -1,0 +1,3 @@
+"100","George","Washington","1234 University Drive","Saint Paul","MN","55101"
+"101","Bill","Clinton","4321 Campus Drive","Minneapolis","MN","55031"
+"102","Ronald","Reagan","6789 Midway Road","Saint Paul","MN","55101"
