@@ -14,7 +14,7 @@ shuffle($myPics);
 <?php
 for($i=0;$i<4;$i++){
     ?>
-    <img src="../images/<?=$myPics[$i] ?>" />
+    <img src="images/<?= $myPics[$i] ?>"/>
 <?php
 }
 ?>

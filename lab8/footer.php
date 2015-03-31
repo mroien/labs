@@ -10,5 +10,4 @@
     <hr />
     Copyright &copy; 2010 The Best of ICS 325
 </div>
-</body>
-</html>
+
